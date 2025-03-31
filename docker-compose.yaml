@@ -9,10 +9,10 @@ services:
     image: nginx:latest
     ports:
       - "8080:80"
-    volumes:
+    volumes: 
       - ./nginx_logs:/var/log/nginx
       - ./html:/usr/share/nginx/html
-      - ./nginx.conf:/etc/nginx/conf.d/default.conf
+      - ./nginx.conf:/etc/nginx/nginx.conf
     networks:
       - monitoring
 
@@ -23,6 +23,8 @@ services:
     command: -config.file=/etc/loki/local-config.yaml
     volumes:
       - ./loki-config.yaml:/etc/loki/local-config.yaml
+       - ./loki:/loki
+     
     networks:
       - monitoring
 
