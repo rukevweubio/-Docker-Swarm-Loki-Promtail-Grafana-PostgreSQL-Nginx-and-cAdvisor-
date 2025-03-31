@@ -1,0 +1,9 @@
+2025/03/31 16:33:16 [notice] 1#1: using the "epoll" event method
+2025/03/31 16:33:16 [notice] 1#1: nginx/1.27.4
+2025/03/31 16:33:16 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2025/03/31 16:33:16 [notice] 1#1: OS: Linux 6.8.0-1021-azure
+2025/03/31 16:33:16 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2025/03/31 16:33:16 [notice] 1#1: start worker processes
+2025/03/31 16:33:16 [notice] 1#1: start worker process 28
+2025/03/31 16:33:16 [notice] 1#1: start worker process 29
+2025/03/31 16:33:56 [error] 29#29: *2 open() "/usr/share/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "https://orange-guacamole-7vrpxrx6gj6v3v6q-8080.app.github.dev/"
