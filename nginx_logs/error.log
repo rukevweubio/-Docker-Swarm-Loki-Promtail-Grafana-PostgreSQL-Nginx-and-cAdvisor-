@@ -7,3 +7,14 @@
 2025/03/31 16:33:16 [notice] 1#1: start worker process 28
 2025/03/31 16:33:16 [notice] 1#1: start worker process 29
 2025/03/31 16:33:56 [error] 29#29: *2 open() "/usr/share/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "https://orange-guacamole-7vrpxrx6gj6v3v6q-8080.app.github.dev/"
+2025/03/31 16:59:07 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2025/03/31 16:59:07 [notice] 28#28: gracefully shutting down
+2025/03/31 16:59:07 [notice] 29#29: gracefully shutting down
+2025/03/31 16:59:07 [notice] 29#29: exiting
+2025/03/31 16:59:07 [notice] 28#28: exiting
+2025/03/31 16:59:07 [notice] 28#28: exit
+2025/03/31 16:59:07 [notice] 29#29: exit
+2025/03/31 16:59:07 [notice] 1#1: signal 17 (SIGCHLD) received from 28
+2025/03/31 16:59:07 [notice] 1#1: worker process 28 exited with code 0
+2025/03/31 16:59:07 [notice] 1#1: worker process 29 exited with code 0
+2025/03/31 16:59:07 [notice] 1#1: exit
