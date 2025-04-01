@@ -85,3 +85,6 @@ To deploy the solution, follow these steps:
 
 ### Conclusion
 This project demonstrates how to build a robust, scalable, and efficient monitoring stack for containerized applications. By integrating Nginx, Loki, Promtail, Grafana, and cAdvisor, we solve the challenges of log aggregation, metrics monitoring, and visualization. Additionally, the portfolio website serves as a practical example of hosting and monitoring a real-world application.
+
+### the wensite hosted with nginx 
+![nginx website](https://github.com/rukevweubio/-Docker-Swarm-Loki-Promtail-Grafana-PostgreSQL-Nginx-and-cAdvisor-/blob/main/picture/Screenshot%20(558).png)
