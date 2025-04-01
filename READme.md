@@ -90,3 +90,6 @@ This project demonstrates how to build a robust, scalable, and efficient monitor
 ![nginx website](https://github.com/rukevweubio/-Docker-Swarm-Loki-Promtail-Grafana-PostgreSQL-Nginx-and-cAdvisor-/blob/main/picture/Screenshot%20(558).png)
 ## loki scraping log from the jobs
 ![loki scraping log ](https://github.com/rukevweubio/-Docker-Swarm-Loki-Promtail-Grafana-PostgreSQL-Nginx-and-cAdvisor-/blob/main/picture/Screenshot%20(531).png)
+
+##cvadvirsor for docker monitoring 
+![cvadvisor docker ](https://github.com/rukevweubio/-Docker-Swarm-Loki-Promtail-Grafana-PostgreSQL-Nginx-and-cAdvisor-/blob/main/picture/Screenshot%20(518).png)
