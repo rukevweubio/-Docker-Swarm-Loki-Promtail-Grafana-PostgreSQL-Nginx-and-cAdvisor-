@@ -93,3 +93,10 @@ This project demonstrates how to build a robust, scalable, and efficient monitor
 
 ##cvadvirsor for docker monitoring 
 ![cvadvisor docker ](https://github.com/rukevweubio/-Docker-Swarm-Loki-Promtail-Grafana-PostgreSQL-Nginx-and-cAdvisor-/blob/main/picture/Screenshot%20(518).png)
+
+![docker cpu values](https://github.com/rukevweubio/-Docker-Swarm-Loki-Promtail-Grafana-PostgreSQL-Nginx-and-cAdvisor-/blob/main/picture/Screenshot%20(520).png )
+
+
+![docker cpu values](https://github.com/rukevweubio/-Docker-Swarm-Loki-Promtail-Grafana-PostgreSQL-Nginx-and-cAdvisor-/blob/main/picture/Screenshot%20(532).png )
+
+![docker cpu values](https://github.com/rukevweubio/-Docker-Swarm-Loki-Promtail-Grafana-PostgreSQL-Nginx-and-cAdvisor-/blob/main/picture/Screenshot%20(559).png )
